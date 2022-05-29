@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    border: 0px,2px,opx,0px;
+    border-color: aliceblue;
+}
+.tine{
+    float: left;
+    width: 30%;
+    background-color: aliceblue;
+    color: black;
+}
+.elon{
+    float: right;
+    width: 70%;
+}
+.img{
+    float: left;
+    width: 30%;
+    background-color: midnightblue;
+    color: aliceblue;  
+}
+.musk{
+    float: right;
+    width: 40%;
+    background-color: midnightblue;
+    color: aliceblue;
+}
+.but{
+    background-color: brown;
+    color: aliceblue;
+    size: 4px,4px;
+}
